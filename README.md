@@ -8,5 +8,5 @@
   - [x] 2382 미생물 격리
 
 ### Baekjoon
-  - [x] 13019	A를 B로 (https://www.acmicpc.net/problem/4134)
+  - [x] 13019	A를 B로 (https://www.acmicpc.net/problem/13019)
   - [x] 1747 소수&팰린드롬 (https://www.acmicpc.net/problem/1747)
