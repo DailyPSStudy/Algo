@@ -16,5 +16,5 @@
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
   - [x] 17676  추석트래픽 (https://programmers.co.kr/learn/courses/30/lessons/17676)
-  - [ ] 1829   카카오 프렌즈 컬러링북 (https://programmers.co.kr/learn/courses/30/lessons/1829)
-  - [ ] 1835   단체사진 찍기 (https://programmers.co.kr/learn/courses/30/lessons/1835)
+  - [x] 1829   카카오 프렌즈 컬러링북 (https://programmers.co.kr/learn/courses/30/lessons/1829)
+  - [x] 1835   단체사진 찍기 (https://programmers.co.kr/learn/courses/30/lessons/1835)
