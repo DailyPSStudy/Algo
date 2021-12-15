@@ -23,4 +23,4 @@
 
 ### softeer 
   - [x] 635   거리 합 구하기 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
-  - [x] 1835  코딩 테스트 세트 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
+  - [x] 630  코딩 테스트 세트 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
