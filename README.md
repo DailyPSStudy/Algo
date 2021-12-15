@@ -20,5 +20,7 @@
   - [x] 17676  추석트래픽 (https://programmers.co.kr/learn/courses/30/lessons/17676)
   - [x] 1829   카카오 프렌즈 컬러링북 (https://programmers.co.kr/learn/courses/30/lessons/1829)
   - [x] 1835   단체사진 찍기 (https://programmers.co.kr/learn/courses/30/lessons/1835)
-  - [ ] 43238  입국심사 https://programmers.co.kr/learn/courses/30/lessons/43238
-  - [ ] 12973  짝지어 제거하기 https://programmers.co.kr/learn/courses/30/lessons/12973
+
+### softeer 
+  - [x] 635   거리 합 구하기 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
+  - [x] 1835  코딩 테스트 세트 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
