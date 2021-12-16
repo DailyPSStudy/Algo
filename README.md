@@ -14,6 +14,7 @@
   - [x] 12761  돌다리 (https://www.acmicpc.net/problem/12761)
   - [x] 4963   섬의개수 (https://www.acmicpc.net/problem/4963)
   - [x] 6209   제자리멀리뛰기 (https://www.acmicpc.net/problem/6209) 
+  - [ ] 5212   지구온난화 (https://www.acmicpc.net/problem/5212)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -22,5 +23,9 @@
   - [x] 1835   단체사진 찍기 (https://programmers.co.kr/learn/courses/30/lessons/1835)
 
 ### softeer 
-  - [ ] 635   거리 합 구하기 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
+  - [ ] 540  GarageGame (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=540)
+
+
+### 다시풀어야할 문제들 
+  - [ ] 635  거리 합 구하기 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
   - [ ] 630  코딩 테스트 세트 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
