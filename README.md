@@ -17,7 +17,8 @@
   - [x] 5212   지구온난화 (https://www.acmicpc.net/problem/5212)
   - [x] 11724  연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
   - [x] 7569   토마토 (https://www.acmicpc.net/problem/7569)
-  - [ ] 1535   안녕 (https://www.acmicpc.net/problem/1535)
+  - [x] 1535   안녕 (https://www.acmicpc.net/problem/1535)
+  - [ ] 1717   집합의표현(https://www.acmicpc.net/problem/1717)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -26,7 +27,8 @@
   - [x] 1835   단체사진 찍기 (https://programmers.co.kr/learn/courses/30/lessons/1835)
   - [x] 12899  124 나라의 숫자 (https://programmers.co.kr/learn/courses/30/lessons/12899)
   - [x] 42586  기능 개발 (https://programmers.co.kr/learn/courses/30/lessons/42586)
-  - [ ] 77485  행렬테두리 (https://programmers.co.kr/learn/courses/30/lessons/77485)
+  - [x] 77485  행렬테두리 (https://programmers.co.kr/learn/courses/30/lessons/77485)
+  - [ ] 17677  뉴스 클러스터링 https://programmers.co.kr/learn/courses/30/lessons/17677
 ### softeer 
 
 
