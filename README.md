@@ -18,7 +18,8 @@
   - [x] 11724  연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
   - [x] 7569   토마토 (https://www.acmicpc.net/problem/7569)
   - [x] 1535   안녕 (https://www.acmicpc.net/problem/1535)
-  - [ ] 1717   집합의표현(https://www.acmicpc.net/problem/1717)
+  - [x] 1717   집합의표현(https://www.acmicpc.net/problem/1717)
+  - [ ] 1922   네트워크 (https://www.acmicpc.net/problem/1922)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -28,7 +29,8 @@
   - [x] 12899  124 나라의 숫자 (https://programmers.co.kr/learn/courses/30/lessons/12899)
   - [x] 42586  기능 개발 (https://programmers.co.kr/learn/courses/30/lessons/42586)
   - [x] 77485  행렬테두리 (https://programmers.co.kr/learn/courses/30/lessons/77485)
-  - [ ] 17677  뉴스 클러스터링 https://programmers.co.kr/learn/courses/30/lessons/17677
+  - [x] 17677  뉴스 클러스터링 (https://programmers.co.kr/learn/courses/30/lessons/17677)
+  - [ ] 81302  거리두기 확인하기 (https://programmers.co.kr/learn/courses/30/lessons/81302)
 ### softeer 
 
 
