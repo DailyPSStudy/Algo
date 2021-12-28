@@ -72,5 +72,4 @@ public class BackJoon_1717_ExpressionOfSet {
 		if(x == set[x]) return x;
 		return set[x] = findSet(set[x]);
 	} // end of find
-
 } // end of class

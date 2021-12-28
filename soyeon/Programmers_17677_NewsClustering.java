@@ -2,7 +2,7 @@ package programmers_17677_NewsClustering;
 import java.util.*;
 import java.util.regex.Pattern; // util.* 하는데 왜 안잡히지;
 /**
-일    시: 2021-12-28 4:20
+일    시: 2021-12-28
 작 성 자: 유 소 연
 https://programmers.co.kr/learn/courses/30/lessons/17677
 */
