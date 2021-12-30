@@ -6,17 +6,17 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- * ÀÏ    ½Ã: 2021-12-28
- * ÀÛ ¼º ÀÚ: À¯ ¼Ò ¿¬
+ * ì¼    ì‹œ: 2021-12-28
+ * ì‘ ì„± ì: ìœ  ì†Œ ì—°
  * https://www.acmicpc.net/problem/1717
- * union find ¹®Á¦
+ * union find ë¬¸ì œ
  * */
 public class BackJoon_1717_ExpressionOfSet {
 	static int number, numberOfOper;
 	static int[] set;
 	
 	public static void main(String[] args) throws IOException {
-		// ¾î¶»°Ô Çß´õ¶ó..¤»¤»
+		// ì–´ë–»ê²Œ í–ˆë”ë¼..ã…‹ã…‹
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		// number, numberOfOper
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -27,17 +27,17 @@ public class BackJoon_1717_ExpressionOfSet {
 		initSet();
 		
 		for (int i = 0; i < numberOfOper; i++) {
-			// numberOfOper °³¼ö¸¸Å­ ¿¬»êÀÌ ÁÖ¾îÁü => 0 a b:ÇÕÁıÇÕ, 1 a b:°°ÀºÁıÇÕ¿¡ Æ÷ÇÔµÅÀÖ´ÂÁö
+			// numberOfOper ê°œìˆ˜ë§Œí¼ ì—°ì‚°ì´ ì£¼ì–´ì§ => 0 a b:í•©ì§‘í•©, 1 a b:ê°™ì€ì§‘í•©ì— í¬í•¨ë¼ìˆëŠ”ì§€
 			st = new StringTokenizer(br.readLine(), " ");
 			int op = Integer.parseInt(st.nextToken());
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
 			
 			if(op==0) {
-				// a,bÀÇ ÁıÇÕÀ» ÇÕÄ¡±â
+				// a,bì˜ ì§‘í•©ì„ í•©ì¹˜ê¸°
 				union(a,b);
 			}else {
-				// a,b°¡ °°ÀºÁıÇÕ¾È¿¡ ÀÖ´ÂÁö È®ÀÎ
+				// a,bê°€ ê°™ì€ì§‘í•©ì•ˆì— ìˆëŠ”ì§€ í™•ì¸
 				if(findSet(a)==findSet(b)) {
 					sb.append("YES").append("\n");
 				}else {
@@ -49,7 +49,7 @@ public class BackJoon_1717_ExpressionOfSet {
 		System.out.print(sb);
 	} // end of main
 
-	// 0~number±îÁö ÀÚ±âÀÚ½ÅÀ¸·Î ÃÊ±âÈ­
+	// 0~numberê¹Œì§€ ìê¸°ìì‹ ìœ¼ë¡œ ì´ˆê¸°í™”
 	private static void initSet() {
 		set = new int[number+1];
 		for (int i = 0; i <= number; i++) {
@@ -57,9 +57,9 @@ public class BackJoon_1717_ExpressionOfSet {
 		}
 	} // end of initSet
 	
-	// a,bÀÇ ÁıÇÕÀ» ÇÕÄ¡±â
+	// a,bì˜ ì§‘í•©ì„ í•©ì¹˜ê¸°
 	private static void union(int a, int b) {
-		/** a,bÀÇ ¿ìµÎ¸Ó¸®·Î ¿¬»êÀ» ÇØ¾ßÇÑ´Ù´Â Á¡ ÀØÁö¸»ÀÚ¤Ğ¤Ğ¤Ğ */
+		/** a,bì˜ ìš°ë‘ë¨¸ë¦¬ë¡œ ì—°ì‚°ì„ í•´ì•¼í•œë‹¤ëŠ” ì  ìŠì§€ë§ìã… ã… ã…  */
 		int aRoot = findSet(a);
 		int bRoot = findSet(b);
 		if(aRoot != bRoot) {
@@ -67,9 +67,10 @@ public class BackJoon_1717_ExpressionOfSet {
 		}
 	} // end of union
 	
-	// a,bÀÇ ¿ìµÎ¸Ó¸® Ã£±â
+	// a,bì˜ ìš°ë‘ë¨¸ë¦¬ ì°¾ê¸°
 	private static int findSet(int x) {
 		if(x == set[x]) return x;
 		return set[x] = findSet(set[x]);
 	} // end of find
+
 } // end of class
