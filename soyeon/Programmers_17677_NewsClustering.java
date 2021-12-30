@@ -1,9 +1,9 @@
 package programmers_17677_NewsClustering;
 import java.util.*;
-import java.util.regex.Pattern; // util.* ÇÏ´Âµ¥ ¿Ö ¾ÈÀâÈ÷Áö;
+import java.util.regex.Pattern; // util.* í•˜ëŠ”ë° ì™œ ì•ˆì¡íˆì§€;
 /**
-ÀÏ    ½Ã: 2021-12-28 4:20
-ÀÛ ¼º ÀÚ: À¯ ¼Ò ¿¬
+
+ì‘ ì„± ì: ìœ  ì†Œ ì—°
 https://programmers.co.kr/learn/courses/30/lessons/17677
 */
 class Programmers_17677_NewsClustering {
@@ -14,25 +14,25 @@ class Programmers_17677_NewsClustering {
         List<String> subsetOfStr2 = new ArrayList<>();
         str1 = str1.toUpperCase();
         str2 = str2.toUpperCase();
-        // subsetOfStr1,subsetOfStr2¿¡ str1,str2¸¦ µÎ¹®ÀÚ¾¿ ÂÉ°³¾î ³Ö´Â´Ù.(Æ¯¼ö¹®ÀÚÁ¦¿Ü) substringÀ¸·Î
+        // subsetOfStr1,subsetOfStr2ì— str1,str2ë¥¼ ë‘ë¬¸ìì”© ìª¼ê°œì–´ ë„£ëŠ”ë‹¤.(íŠ¹ìˆ˜ë¬¸ìì œì™¸) substringìœ¼ë¡œ
         subsetOfStr1 = splitInTwo(str1);
         subsetOfStr2 = splitInTwo(str2);
         System.out.printf("subsetOfStr1 : %d, subsetOfStr2 : %d\n", subsetOfStr1.size(), subsetOfStr2.size());
         System.out.println("list1: "+subsetOfStr1);
         System.out.println("list2: "+subsetOfStr2);
-        // ¸ğµÎ 0ÀÏ °æ¿ì¿£ 1·Î Á¤ÀÇ
+        // ëª¨ë‘ 0ì¼ ê²½ìš°ì—” 1ë¡œ ì •ì˜
         if(subsetOfStr1.size()==0 && subsetOfStr2.size()==0) {
             return 65536;
         } else {
             double jcdScore = getJacquard(subsetOfStr1, subsetOfStr2);
             System.out.printf("jcdScore*65536 : %d\n", (int)Math.floor(65536*jcdScore));
-            // 65536 °öÇØ¼­ ¸®ÅÏ
+            // 65536 ê³±í•´ì„œ ë¦¬í„´
             return (int)Math.floor(65536*jcdScore);
         }
         
     } // end of solution
     
-    // subsetOfStr1,subsetOfStr2¿¡ str1,str2¸¦ µÎ¹®ÀÚ¾¿ ÂÉ°³¾î ³Ö´Â´Ù.(Æ¯¼ö¹®ÀÚÁ¦¿Ü) substringÀ¸·Î
+    // subsetOfStr1,subsetOfStr2ì— str1,str2ë¥¼ ë‘ë¬¸ìì”© ìª¼ê°œì–´ ë„£ëŠ”ë‹¤.(íŠ¹ìˆ˜ë¬¸ìì œì™¸) substringìœ¼ë¡œ
     public List<String> splitInTwo(String target) {
         List<String> res = new ArrayList<>();
         // 222
@@ -50,28 +50,28 @@ class Programmers_17677_NewsClustering {
         List<String> inter = new ArrayList<>();
         List<String> union = new ArrayList<>();
         
-        // ±³ÁıÇÕ,ÇÕÁıÇÕ °É·¯³»±âÀ§ÇØ µÎÁıÇÕÀ» Á¤·ÄÇÑ´Ù
+        // êµì§‘í•©,í•©ì§‘í•© ê±¸ëŸ¬ë‚´ê¸°ìœ„í•´ ë‘ì§‘í•©ì„ ì •ë ¬í•œë‹¤
         Collections.sort(subsetOfStr1);
         Collections.sort(subsetOfStr2);
         
-        // ÁıÇÕ1ÀÇ ¿ø¼Ò¸¦ ÇÏ³ª¾¿²¨³» ÁıÇÕ2¿¡ Æ÷ÇÔµÇ´ÂÁö È®ÀÎÇÑ´Ù.
+        // ì§‘í•©1ì˜ ì›ì†Œë¥¼ í•˜ë‚˜ì”©êº¼ë‚´ ì§‘í•©2ì— í¬í•¨ë˜ëŠ”ì§€ í™•ì¸í•œë‹¤.
         for(String str : subsetOfStr1) {
-            // ÁıÇÕ2¿¡ Æ÷ÇÔµÉ°æ¿ì, ±³ÁıÇÔ¿¡ ÁıÇÕ1 ¿ø¼Ò¸¦ Ãß°¡ÇÏ°í ÁıÇÕ2¿¡¼­´Â »èÁ¦ÇÑ´Ù.
+            // ì§‘í•©2ì— í¬í•¨ë ê²½ìš°, êµì§‘í•¨ì— ì§‘í•©1 ì›ì†Œë¥¼ ì¶”ê°€í•˜ê³  ì§‘í•©2ì—ì„œëŠ” ì‚­ì œí•œë‹¤.
             if(subsetOfStr2.remove(str)) {
                 inter.add(str);
             }
-            // ÁıÇÕ2¿¡ Æ÷ÇÔµÇµç¾ÈµÇµç ÁıÇÕ1 ¿ø¼Ò¸¦ ÇÕÁıÇÕ¿¡ Ãß°¡ÇÑ´Ù.
+            // ì§‘í•©2ì— í¬í•¨ë˜ë“ ì•ˆë˜ë“  ì§‘í•©1 ì›ì†Œë¥¼ í•©ì§‘í•©ì— ì¶”ê°€í•œë‹¤.
             union.add(str);
         }
         
-        // ±³ÁıÇÕ¿¡¼­ »èÁ¦µÈ°ÍÀ» Á¦¿ÜÇÑ ³ª¸ÓÁö ¿ø¼Ò¸¦ ÇÕÁıÇÕ(union)¿¡ Ãß°¡
+        // êµì§‘í•©ì—ì„œ ì‚­ì œëœê²ƒì„ ì œì™¸í•œ ë‚˜ë¨¸ì§€ ì›ì†Œë¥¼ í•©ì§‘í•©(union)ì— ì¶”ê°€
         for(String str : subsetOfStr2) {
             union.add(str);
         }
         
         int sizeOfInter = inter.size();
         int sizeOfUnion = union.size();
-        System.out.printf("Áßº¹¼ö: %d\n", inter.size());
+        System.out.printf("ì¤‘ë³µìˆ˜: %d\n", inter.size());
         System.out.printf("size: %d\n", union.size());
         System.out.printf("jcdScore: %f\n", (double)sizeOfInter/sizeOfUnion);
         return (double)sizeOfInter/sizeOfUnion;
