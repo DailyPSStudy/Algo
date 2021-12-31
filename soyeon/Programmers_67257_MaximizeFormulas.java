@@ -1,6 +1,14 @@
 package programmers_67257_MaximizeFormulas;
 import java.util.*;
-
+/**
+ * 일    시: 2022-01-01
+ * 작 성 자: 유 소 연
+ * https://programmers.co.kr/learn/courses/30/lessons/67257
+ * <주의사항>
+ * 1. calc에서 Long.parseLong 을 사용했어야 하는데, Integer.parseInt 로 함.
+ * 2. go 에서 i=0을 해줘야함. 안그러면 계속 뒤의 숫자들로 진행을 해버림.
+ * 3. 우선순위로 정한 부분만 계산하는 식의 진행이 구현하기 너무 어려웠다. 그러나 ArrayList로 풀면 굉장히 쉽다ㅠㅠ 왜 문자열로 풀었는지...
+ * */
 class Programmers_67257_MaximizeFormulas {
     static char[] op = {'*','+','-'};
     static char[] priority;
@@ -8,136 +16,130 @@ class Programmers_67257_MaximizeFormulas {
     static long max;
     
     public static void main(String[] args) {
-		long answer = solution("100-200*300-500+20");
-		System.out.println(answer);
+//		long answer = solution("2*2*2*2*2-2*2*2"); // 32-8 = 24가 맞는데 왜 64가..?
+		long answer = solution("1+4-0*9");
+		System.out.println("answer : "+answer);
 	}
     
     public static long solution(String expression) {
-        
-        // 순열로 연산자의 우선순위를 구함
+    	// expressiont에서 숫자와 연산자를 추출하여 list에 넣음
+        ArrayList<String> list = readInput(expression);
         priority = new char[3];
         visited = new boolean[3];
-        getPriority(0, expression); // depth, expr
-        
+//        printList(list); // test print
+        // 순열로 우선순위 연산자 선정
+        getPriority(0, expression, list);
         return max;
     } // end of solution
+
+
+	private static void getPriority(int depth, String exp, ArrayList<String> list) {
+		if(depth==3) {
+			System.out.println(Arrays.toString(priority));
+			ArrayList<String> copyOfList = copyList(list);
+			long res = go(exp, copyOfList);
+			System.out.println("연산결과: "+res);
+			if(max<res) max = res;
+			return;
+		}
+		for (int i = 0; i < op.length; i++) {
+			if(visited[i]) continue;
+			visited[i] = true;
+			priority[depth] = op[i];
+			getPriority(depth+1, exp, list);
+			visited[i] = false;
+		}
+	}
+
+
+	/** priority에 맞춰 exp 연산 */
+	private static long go(String exp, ArrayList<String> list) {
+		
+		while(list.size() > 1) {
+			System.out.println("go");
+			printList(list);
+			
+			for (int j = 0; j < 3; j++) {
+				for (int i = 0; i < list.size(); i++) {
+					String cur = list.get(i);
+					String oper = Character.toString(priority[j]);
+					if(cur.equals(oper)) {
+						long res = calc(list.get(i-1), list.get(i+1), oper);
+						remove(list, i-1);
+						list.add(i-1, Long.toString(res));
+						printList(list);
+						i = 0; // 존나중요.
+					}
+				}
+				
+			}
+			
+		} // end of while
+		
+		long res = Long.parseLong(list.get(0));
+		
+		System.out.printf("res: %d\n",res);
+		
+		return Math.abs(res);
+	}
+
+
+	private static long calc(String a, String b, String oper) {
+		long res = 0;
+		switch(oper) {
+			case "+" :
+				res = Long.parseLong(a)+Long.parseLong(b);
+				break;
+			case "-" :
+				res = Long.parseLong(a)-Long.parseLong(b);
+				break;
+			case "*" :
+				res = Long.parseLong(a)*Long.parseLong(b);
+				break;
+		}
+		return res;
+	}
+
+	/** 숫자,연산자를 추출하여 list에 넣음 */
+	private static ArrayList<String> readInput(String exp) {
+		ArrayList<String> list = new ArrayList<String>();
+		String str = "";
+		for (int i = 0; i < exp.length(); i++) {
+			char ch = exp.charAt(i);
+			if(Character.isDigit(ch)) {
+				str += ch;
+			}else {
+				list.add(str);
+				list.add(Character.toString(ch));
+				str = "";
+			}
+		}
+		list.add(str);
+		return list;
+	}
     
-    /** 순열로 연산자의 우선순위를 구함 */
-    public static void getPriority(int depth, String expr) {
-        if(depth==3) {
-            long res = go(expr); // 우선순위대로 계산하기
-            if(res > max) max = res;
-            return;
-        }
-        for(int i = 0; i < 3; i++) {
-            if(visited[i]) continue;
-            priority[depth] = op[i];
-            getPriority(depth+1, expr);
-        }
-    }
-    
-    /** 우선순위대로 expr 계산 */
-    public static long go(String expr) {
-        // 연산자의 위치만 따로 빼둠
-        int[] opIndex = findOpIndex(expr);
-        System.out.printf("%s\n", expr);
-        
-        while(opIndex.length!=0){
-            // 최우선순위 찾음
-            for(int i = 0; i < priority.length; i++) {
-                char op = priority[i];
-                System.out.printf("op : %c\n", op);
-                
-                for(int j = 0; j < expr.length(); j++) {
-                    char ch = expr.charAt(j);
-                    System.out.printf("ch : %c\n", ch);
-                    if(ch==op) {
-                    	System.out.println("op==ch");
-                        int[] idx = getBothEndIdx(expr, j);
-                        System.out.println("both idx: "+Arrays.toString(idx));
-                        String str = expr.substring(idx[0], idx[1]+1);
-                        System.out.println("str: "+str);
-                        long res = calc(str, j, i);
-                        expr = expr.replace(str, Long.toString(res));
-                    }
-                } // end of for j expr
-                
-            } // end of for i priority
-            
-            opIndex = findOpIndex(expr);
-        } // end of while
-        return Math.abs(Long.parseLong(expr));
-    }
-    
-    /** 연산자의 위치를 중심으로 계산 */
-    public static int calc(String expr, int idx, int opIdx) {
-        System.out.printf("expr size: %d\n", expr.length());
-        int a = Integer.parseInt(expr.substring(0,idx+1));
-        int b = Integer.parseInt(expr.substring(idx,expr.length()));
-        char op = priority[opIdx];
-        if(op=='+') {
-            return a+b;
-        }else if(op=='-') {
-            return a-b;
-        }else{
-            return a*b;
-        }
-        
-    }
-    
-    /** op범위의 start,end 인덱스 반환 */
-    public static int[] getBothEndIdx(String expr, int idx) {
-        int[] res = new int[2];
-        System.out.println("getBothEndIdx");
-        System.out.printf("expr: %s, idx: %d\n", expr, idx);
-        // start 구하기
-        for(int i = 1; i <= 3; i++){
-        	System.out.printf("idx: %d, i: %d\n", idx, i);
-            if(idx-i < 0){
-                res[0] = idx-i+1;
-                System.out.printf("idx-i (%d)가 0보다 작음 => %d로 고정\n", idx-i,res[0]);
-                break;
-            }
-            char ch = expr.charAt(idx-i);
-            System.out.printf("ch: %c\n", ch);
-            if(Character.isLetter(ch)){
-                res[0] = idx-i+1;
-                System.out.printf("start index 찾음 => %d\n", idx-i+1);
-                break;
-            }
-        }
-        
-        // end 구하기
-        for(int i = 1; i <= 3; i++){
-            if(idx+i >= expr.length()){
-                res[1] = idx+i-1;
-                System.out.printf("idx+i (%d)가 expr길이보다 큼 => %d로 고정\n", idx+i,res[1]);
-                break;
-            }
-            char ch = expr.charAt(idx+i);
-            if(Character.isLetter(ch)){
-                res[1] = idx+i-1;
-                System.out.printf("end index 찾음 => %d\n", res[1]);
-                break;
-            }
-        }
-        return res;
-    }
-    
-    /** 연산자의 위치만 따로 빼둠 */
-    public static int[] findOpIndex(String expr) {
-        List<Integer> list = new ArrayList<>();
-        for(int i = 0; i < expr.length(); i++) {
-            if(expr.charAt(i)=='+' || expr.charAt(i)=='-' || expr.charAt(i)=='*') {
-                list.add(i);
-            }
-        }
-        int[] res = new int[list.size()];
-        for(int i = 0; i < list.size(); i++) {
-            res[i] = list.get(i);
-        }
-        return res;
-    }
+	private static void remove(ArrayList<String> list, int i) {
+		for (int j = 0; j < 3; j++) {
+			list.remove(i);
+		}
+	}
+	
+	/** list "깊은" 복사 */
+	private static ArrayList<String> copyList(ArrayList<String> list) {
+		ArrayList<String> res = new ArrayList<>();
+		for(String str : list) {
+			res.add(str);
+		}
+		return res;
+	}
+	
+	/** list 출력 */
+	private static void printList(ArrayList<String> list) {
+		for (int i = 0; i < list.size(); i++) {
+			System.out.print(list.get(i)+" ");
+		}
+		System.out.println();
+	}
     
     
 } // end of class
