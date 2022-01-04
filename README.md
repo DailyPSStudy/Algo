@@ -21,7 +21,8 @@
   - [x] 1717   집합의표현(https://www.acmicpc.net/problem/1717)
   - [x] 1922   네트워크 (https://www.acmicpc.net/problem/1922)
   - [x] 1916   최소비용 구하기https://www.acmicpc.net/problem/1916
-  - [ ] 11399  ATM (https://www.acmicpc.net/problem/11399)    
+  - [x] 11399  ATM (https://www.acmicpc.net/problem/11399)    
+  - [ ] 1074   Z (https://www.acmicpc.net/problem/1074)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -34,7 +35,8 @@
   - [x] 17677  뉴스 클러스터링 (https://programmers.co.kr/learn/courses/30/lessons/17677)
   - [x] 81302  거리두기 확인하기 (https://programmers.co.kr/learn/courses/30/lessons/81302)
   - [x] 67257  수식 최대화 (https://programmers.co.kr/learn/courses/30/lessons/67257)
-  - [ ] 64065  튜플 (https://programmers.co.kr/learn/courses/30/lessons/64065)
+  - [x] 64065  튜플 (https://programmers.co.kr/learn/courses/30/lessons/64065)
+  - [ ] 86052  빛의경로사이클 (https://programmers.co.kr/learn/courses/30/lessons/86052)
 ### softeer 
 
 
