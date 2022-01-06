@@ -39,7 +39,7 @@
   - [x] 67257  수식 최대화 (https://programmers.co.kr/learn/courses/30/lessons/67257)
   - [x] 64065  튜플 (https://programmers.co.kr/learn/courses/30/lessons/64065)
   - [x] 86052  빛의경로사이클 (https://programmers.co.kr/learn/courses/30/lessons/86052)
-  - [] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
+  - [x] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
   - [ ] 42577  전화번호목록https://programmers.co.kr/learn/courses/30/lessons/42577
 ### softeer 
 
