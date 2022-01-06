@@ -23,7 +23,8 @@
   - [x] 1916   최소비용 구하기https://www.acmicpc.net/problem/1916
   - [x] 11399  ATM (https://www.acmicpc.net/problem/11399)    
   - [x] 1074   Z (https://www.acmicpc.net/problem/1074)
-  - [ ] 15648  N과M(1) https://www.acmicpc.net/problem/15649
+  - [x] 15648  N과M(1) https://www.acmicpc.net/problem/15649
+  - [ ] 9663   NQueen https://www.acmicpc.net/problem/9663
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -38,7 +39,8 @@
   - [x] 67257  수식 최대화 (https://programmers.co.kr/learn/courses/30/lessons/67257)
   - [x] 64065  튜플 (https://programmers.co.kr/learn/courses/30/lessons/64065)
   - [x] 86052  빛의경로사이클 (https://programmers.co.kr/learn/courses/30/lessons/86052)
-  - [ ] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
+  - [] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
+  - [ ] 42577  전화번호목록https://programmers.co.kr/learn/courses/30/lessons/42577
 ### softeer 
 
 
