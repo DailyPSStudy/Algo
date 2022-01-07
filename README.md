@@ -25,6 +25,7 @@
   - [x] 1074   Z (https://www.acmicpc.net/problem/1074)
   - [x] 15648  N과M(1) https://www.acmicpc.net/problem/15649
   - [ ] 9663   NQueen https://www.acmicpc.net/problem/9663
+  - [ ] 15681  트리와쿼리 https://www.acmicpc.net/problem/15681
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -40,7 +41,8 @@
   - [x] 64065  튜플 (https://programmers.co.kr/learn/courses/30/lessons/64065)
   - [x] 86052  빛의경로사이클 (https://programmers.co.kr/learn/courses/30/lessons/86052)
   - [x] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
-  - [ ] 42577  전화번호목록https://programmers.co.kr/learn/courses/30/lessons/42577
+  - [ ] 42577  전화번호목록 (https://programmers.co.kr/learn/courses/30/lessons/42577)
+  - [ ] 42746  가장 큰 수 (https://programmers.co.kr/learn/courses/30/lessons/42746)
 ### softeer 
 
 
