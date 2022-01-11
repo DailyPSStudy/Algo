@@ -26,7 +26,8 @@
   - [x] 15648  N과M(1) https://www.acmicpc.net/problem/15649
   - [x] 9663   NQueen https://www.acmicpc.net/problem/9663
   - [x] 15681  트리와쿼리 https://www.acmicpc.net/problem/15681
-  - [ ] 10026  적록색약 https://www.acmicpc.net/problem/10026
+  - [x] 10026  적록색약 https://www.acmicpc.net/problem/10026
+  - [ ] 2206   벽부수고 이동하기 https://www.acmicpc.net/problem/2206 
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -44,7 +45,8 @@
   - [x] 42587  프린터(https://programmers.co.kr/learn/courses/30/lessons/42587)
   - [x] 42577  전화번호목록 (https://programmers.co.kr/learn/courses/30/lessons/42577)
   - [x] 42746  가장 큰 수 (https://programmers.co.kr/learn/courses/30/lessons/42746)
-  - [ ] 42839  소수찾기 (https://programmers.co.kr/learn/courses/30/lessons/42839)
+  - [x] 42839  소수찾기 (https://programmers.co.kr/learn/courses/30/lessons/42839)
+  - [ ] 1844   게임맵최단거리 (https://programmers.co.kr/learn/courses/30/lessons/1844)
 ### softeer 
 
 
