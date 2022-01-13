@@ -28,7 +28,8 @@
   - [x] 15681  트리와쿼리 https://www.acmicpc.net/problem/15681
   - [x] 10026  적록색약 https://www.acmicpc.net/problem/10026
   - [x] 2206   벽부수고 이동하기 https://www.acmicpc.net/problem/2206 
-  - [ ] 2629   저울 https://www.acmicpc.net/problem/2629
+  - [x] 2629   저울 https://www.acmicpc.net/problem/2629
+  - [ ] 2662   기업투자 https://www.acmicpc.net/problem/2662
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -48,7 +49,8 @@
   - [x] 42746  가장 큰 수 (https://programmers.co.kr/learn/courses/30/lessons/42746)
   - [x] 42839  소수찾기 (https://programmers.co.kr/learn/courses/30/lessons/42839)
   - [x] 1844   게임맵최단거리 (https://programmers.co.kr/learn/courses/30/lessons/1844)
-  - [ ] 42860  조이스틱 (https://programmers.co.kr/learn/courses/30/lessons/42860)
+  - [x] 42860  조이스틱 (https://programmers.co.kr/learn/courses/30/lessons/42860)
+  - [ ] 12985  예상 대진표 (https://programmers.co.kr/learn/courses/30/lessons/12985)
 ### softeer 
 
 
