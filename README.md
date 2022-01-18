@@ -30,7 +30,8 @@
   - [x] 2206   벽부수고 이동하기 https://www.acmicpc.net/problem/2206 
   - [x] 2629   저울 https://www.acmicpc.net/problem/2629
   - [x] 2662   기업투자 https://www.acmicpc.net/problem/2662
-  - [ ] 1939   중량제한 https://www.acmicpc.net/problem/1939
+  - [x] 1939   중량제한 https://www.acmicpc.net/problem/1939
+  - [ ] 1655   가운데를말해요 https://www.acmicpc.net/problem/1655
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -52,7 +53,8 @@
   - [x] 1844   게임맵최단거리 (https://programmers.co.kr/learn/courses/30/lessons/1844)
   - [x] 42860  조이스틱 (https://programmers.co.kr/learn/courses/30/lessons/42860)
   - [x] 12985  예상 대진표 (https://programmers.co.kr/learn/courses/30/lessons/12985)
-  - [ ] 72412  순위검색 (https://programmers.co.kr/learn/courses/30/lessons/72412)
+  - [x] 72412  순위검색 (https://programmers.co.kr/learn/courses/30/lessons/72412)
+  - [ ] 42583  다리를지나는트럭 (https://programmers.co.kr/learn/courses/30/lessons/42583)
 ### softeer 
 
 
