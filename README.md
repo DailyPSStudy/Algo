@@ -32,7 +32,8 @@
   - [x] 2662   기업투자 https://www.acmicpc.net/problem/2662
   - [x] 1939   중량제한 https://www.acmicpc.net/problem/1939
   - [x] 1655   가운데를말해요 https://www.acmicpc.net/problem/1655
-  - [ ] 2933   미네랄 https://www.acmicpc.net/problem/2933
+  - [x] 2933   미네랄 https://www.acmicpc.net/problem/2933
+  - [ ] 2749   피보나치 수 3 https://www.acmicpc.net/problem/2749
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -56,7 +57,8 @@
   - [x] 12985  예상 대진표 (https://programmers.co.kr/learn/courses/30/lessons/12985)
   - [x] 72412  순위검색 (https://programmers.co.kr/learn/courses/30/lessons/72412)
   - [x] 42583  다리를지나는트럭 (https://programmers.co.kr/learn/courses/30/lessons/42583)
-  - [ ] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
+  - [] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
+  - [ ] 76502  괄호 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/76502)
 ### softeer 
 
 
