@@ -57,7 +57,7 @@
   - [x] 12985  예상 대진표 (https://programmers.co.kr/learn/courses/30/lessons/12985)
   - [x] 72412  순위검색 (https://programmers.co.kr/learn/courses/30/lessons/72412)
   - [x] 42583  다리를지나는트럭 (https://programmers.co.kr/learn/courses/30/lessons/42583)
-  - [] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
+  - [x] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
   - [ ] 76502  괄호 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/76502)
 ### softeer 
 
