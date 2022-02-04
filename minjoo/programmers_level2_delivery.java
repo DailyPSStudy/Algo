@@ -2,7 +2,7 @@ package programmers;
 
 // 프로그래머스 배달 (플로이드 와샬)
 // N이 50이하이므로 공간 복잡도가 해봤자 50*50*4 = 1만 byte 밖에 안 됨.
-// 시간 복잡도는 플로이드 와샬이므로, O(N^3) = 50*50*50 = 75000번이라 편하게 가능
+// 시간 복잡도는 플로이드 와샬이므로, O(N^3) = 50*50*50 = 125000번이라 편하게 가능
 public class programmers_level2_delivery {
   public static void main(String[] args) {
     //
