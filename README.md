@@ -34,7 +34,8 @@
   - [x] 1655   가운데를말해요 https://www.acmicpc.net/problem/1655
   - [x] 2933   미네랄 https://www.acmicpc.net/problem/2933
   - [x] 2749   피보나치 수 3 https://www.acmicpc.net/problem/2749
-  - [ ] 10830  행렬 제곱 https://www.acmicpc.net/problem/10830
+  - [x] 10830  행렬 제곱 https://www.acmicpc.net/problem/10830
+  - [ ] 11066  파일 합치기 https://www.acmicpc.net/problem/11066
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -60,7 +61,8 @@
   - [x] 42583  다리를지나는트럭 (https://programmers.co.kr/learn/courses/30/lessons/42583)
   - [x] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
   - [x] 76502  괄호 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/76502)
-  - [ ] 12978  배달 (https://programmers.co.kr/learn/courses/30/lessons/12978)
+  - [x] 12978  배달 (https://programmers.co.kr/learn/courses/30/lessons/12978)
+  - [ ] 87946  피로도 (https://programmers.co.kr/learn/courses/30/lessons/87946)
 ### softeer 
 
 
