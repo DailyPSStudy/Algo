@@ -63,6 +63,8 @@
   - [x] 76502  괄호 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/76502)
   - [x] 12978  배달 (https://programmers.co.kr/learn/courses/30/lessons/12978)
   - [ ] 87946  피로도 (https://programmers.co.kr/learn/courses/30/lessons/87946)
+  - [ ] 62048  멀쩡한사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048)
+
 ### softeer 
 
 
