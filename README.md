@@ -35,7 +35,8 @@
   - [x] 2933   미네랄 https://www.acmicpc.net/problem/2933
   - [x] 2749   피보나치 수 3 https://www.acmicpc.net/problem/2749
   - [x] 10830  행렬 제곱 https://www.acmicpc.net/problem/10830
-  - [ ] 11066  파일 합치기 https://www.acmicpc.net/problem/11066
+  - [x] 11066  파일 합치기 https://www.acmicpc.net/problem/11066
+  - [ ] 11049  행렬 곱셈 순서 https://www.acmicpc.net/problem/11049
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -62,8 +63,9 @@
   - [x] 42890  후보키  (https://programmers.co.kr/learn/courses/30/lessons/42890)
   - [x] 76502  괄호 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/76502)
   - [x] 12978  배달 (https://programmers.co.kr/learn/courses/30/lessons/12978)
-  - [ ] 87946  피로도 (https://programmers.co.kr/learn/courses/30/lessons/87946)
-  - [ ] 62048  멀쩡한사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048)
+  - [x] 87946  피로도 (https://programmers.co.kr/learn/courses/30/lessons/87946)
+  - [x] 62048  멀쩡한사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048)
+  - [ ] 42883  큰 수 만들기 (https://programmers.co.kr/learn/courses/30/lessons/42883)
 
 ### softeer 
 
