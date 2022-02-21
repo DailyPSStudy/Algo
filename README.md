@@ -66,7 +66,8 @@
   - [x] 87946  피로도 (https://programmers.co.kr/learn/courses/30/lessons/87946)
   - [x] 62048  멀쩡한사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048)
   - [x] 42883  큰 수 만들기 (https://programmers.co.kr/learn/courses/30/lessons/42883)
-  - [ ] 68645  삼각 달팽이(https://programmers.co.kr/learn/courses/30/lessons/68645)
+  - [x] 68645  삼각 달팽이(https://programmers.co.kr/learn/courses/30/lessons/68645)
+  - [ ] 42885  구명보트 https://programmers.co.kr/learn/courses/30/lessons/42885
 
 ### softeer 
 
