@@ -37,7 +37,8 @@
   - [x] 10830  행렬 제곱 https://www.acmicpc.net/problem/10830
   - [x] 11066  파일 합치기 https://www.acmicpc.net/problem/11066
   - [x] 11049  행렬 곱셈 순서 https://www.acmicpc.net/problem/11049
-  - [ ] 10942  팰린드롬? https://www.acmicpc.net/problem/10942
+  - [x] 10942  팰린드롬? https://www.acmicpc.net/problem/10942
+  - [ ] 7579   앱 https://www.acmicpc.net/problem/7579
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -69,7 +70,8 @@
   - [x] 42883  큰 수 만들기 (https://programmers.co.kr/learn/courses/30/lessons/42883)
   - [x] 68645  삼각 달팽이(https://programmers.co.kr/learn/courses/30/lessons/68645)
   - [x] 42885  구명보트 https://programmers.co.kr/learn/courses/30/lessons/42885
-  - [ ] 87377  교점에 별 만들기 (https://programmers.co.kr/learn/courses/30/lessons/87377)
+  - [x] 87377  교점에 별 만들기 (https://programmers.co.kr/learn/courses/30/lessons/87377)
+  - [ ] 86971  전력망을 둘로 나누기 (https://programmers.co.kr/learn/courses/30/lessons/86971)
 
 ### softeer 
 
