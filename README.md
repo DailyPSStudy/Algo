@@ -39,7 +39,8 @@
   - [x] 11049  행렬 곱셈 순서 https://www.acmicpc.net/problem/11049
   - [x] 10942  팰린드롬? https://www.acmicpc.net/problem/10942
   - [x] 7579   앱 https://www.acmicpc.net/problem/7579
-  - [ ] 11657  타임머신 https://www.acmicpc.net/problem/11657
+  - [x] 11657  타임머신 https://www.acmicpc.net/problem/11657
+  - [ ] 11404  플로이드 https://www.acmicpc.net/problem/11404
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -73,7 +74,8 @@
   - [x] 42885  구명보트 https://programmers.co.kr/learn/courses/30/lessons/42885
   - [x] 87377  교점에 별 만들기 (https://programmers.co.kr/learn/courses/30/lessons/87377)
   - [x] 86971  전력망을 둘로 나누기 (https://programmers.co.kr/learn/courses/30/lessons/86971)
-  - [ ] 84512  모음사전 (https://programmers.co.kr/learn/courses/30/lessons/84512)
+  - [x] 84512  모음사전 (https://programmers.co.kr/learn/courses/30/lessons/84512)
+  - [ ] 12981  영어 끝말잇기 (https://programmers.co.kr/learn/courses/30/lessons/12981)
 
 ### softeer 
 
