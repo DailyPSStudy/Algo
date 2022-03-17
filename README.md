@@ -43,7 +43,8 @@
   - [x] 11404  플로이드 https://www.acmicpc.net/problem/11404
   - [x] 2151   거울 설치 https://www.acmicpc.net/problem/2151
   - [x] 16954  움직이는 미로 탈출 https://www.acmicpc.net/problem/16954
-  - [ ] 1956   운동 https://www.acmicpc.net/problem/1956
+  - [x] 1956   운동 https://www.acmicpc.net/problem/1956
+  - [ ] 12886  돌 그룹 https://www.acmicpc.net/problem/12886
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -81,7 +82,8 @@
   - [x] 12981  영어 끝말잇기 (https://programmers.co.kr/learn/courses/30/lessons/12981)
   - [x] 70129  이진 변환 반복하기 (https://programmers.co.kr/learn/courses/30/lessons/70129)
   - [x] 17680  캐시 (https://programmers.co.kr/learn/courses/30/lessons/17680)
-  - [ ] 12980  점프와 순간 이동 (https://programmers.co.kr/learn/courses/30/lessons/12980)
+  - [x] 12980  점프와 순간 이동 (https://programmers.co.kr/learn/courses/30/lessons/12980)
+  - [ ] 87390  배열 자르기 (https://programmers.co.kr/learn/courses/30/lessons/87390)
 
 ### softeer 
 
