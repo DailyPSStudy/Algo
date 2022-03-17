@@ -11,7 +11,7 @@ public class 돌그룹 {
 		int thi = Integer.parseInt(st.nextToken());
 		
 		
-		if(first+sec+thi%3==0) {
+		if((first+sec+thi)%3==0) {
 			
 			int[] arr = {first,sec,thi};
 			Arrays.sort(arr);
