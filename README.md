@@ -44,7 +44,8 @@
   - [x] 2151   거울 설치 https://www.acmicpc.net/problem/2151
   - [x] 16954  움직이는 미로 탈출 https://www.acmicpc.net/problem/16954
   - [x] 1956   운동 https://www.acmicpc.net/problem/1956
-  - [ ] 12886  돌 그룹 https://www.acmicpc.net/problem/12886
+  - [x] 12886  돌 그룹 https://www.acmicpc.net/problem/12886
+  - [ ] 17143  낚시왕 https://www.acmicpc.net/problem/17143
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -83,7 +84,8 @@
   - [x] 70129  이진 변환 반복하기 (https://programmers.co.kr/learn/courses/30/lessons/70129)
   - [x] 17680  캐시 (https://programmers.co.kr/learn/courses/30/lessons/17680)
   - [x] 12980  점프와 순간 이동 (https://programmers.co.kr/learn/courses/30/lessons/12980)
-  - [ ] 87390  배열 자르기 (https://programmers.co.kr/learn/courses/30/lessons/87390)
+  - [x] 87390  배열 자르기 (https://programmers.co.kr/learn/courses/30/lessons/87390)
+  - [ ] 68936  쿼드압축 후 개수 세기 (https://programmers.co.kr/learn/courses/30/lessons/68936)
 
 ### softeer 
 
