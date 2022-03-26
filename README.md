@@ -46,7 +46,8 @@
   - [x] 1956   운동 https://www.acmicpc.net/problem/1956
   - [x] 12886  돌 그룹 https://www.acmicpc.net/problem/12886
   - [x] 17143  낚시왕 https://www.acmicpc.net/problem/17143
-  - [ ] 1043   거짓말 https://www.acmicpc.net/problem/1043
+  - [x] 1043   거짓말 https://www.acmicpc.net/problem/1043
+  - [ ] 11054  가장 긴 바이토닉 수열 https://www.acmicpc.net/problem/11054
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -88,6 +89,7 @@
   - [x] 87390  배열 자르기 (https://programmers.co.kr/learn/courses/30/lessons/87390)
   - [x] 68936  쿼드압축 후 개수 세기 (https://programmers.co.kr/learn/courses/30/lessons/68936)
   - [ ] 42586  기능개발 (https://programmers.co.kr/learn/courses/30/lessons/42586)
+  - [ ] 12913  땅따먹기 (https://programmers.co.kr/learn/courses/30/lessons/12913)
 
 ### softeer 
 
