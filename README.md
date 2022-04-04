@@ -49,7 +49,8 @@
   - [x] 1043   거짓말 https://www.acmicpc.net/problem/1043
   - [x] 11054  가장 긴 바이토닉 수열 https://www.acmicpc.net/problem/11054
   - [x] 17225  세훈이의 선물가게 https://www.acmicpc.net/problem/17225
-  - [ ] 3078   좋은 친구 https://www.acmicpc.net/problem/3078
+  - [x] 3078   좋은 친구 https://www.acmicpc.net/problem/3078
+  - [ ] 11577  딥 슬립 https://www.acmicpc.net/problem/11577
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -93,7 +94,8 @@
   - [x] 42586  기능개발 (https://programmers.co.kr/learn/courses/30/lessons/42586)
   - [x] 12913  땅따먹기 (https://programmers.co.kr/learn/courses/30/lessons/12913)
   - [x] 49993  스킬트리 (https://programmers.co.kr/learn/courses/30/lessons/49993)
-  - [ ] 49994  방문 길이 (https://programmers.co.kr/learn/courses/30/lessons/49994)
+  - [x] 49994  방문 길이 (https://programmers.co.kr/learn/courses/30/lessons/49994)
+  - [ ] 17683  방금그곡 (https://programmers.co.kr/learn/courses/30/lessons/17683)
 
 ### softeer 
 
