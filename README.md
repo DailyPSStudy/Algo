@@ -50,7 +50,7 @@
   - [x] 11054  가장 긴 바이토닉 수열 https://www.acmicpc.net/problem/11054
   - [x] 17225  세훈이의 선물가게 https://www.acmicpc.net/problem/17225
   - [x] 3078   좋은 친구 https://www.acmicpc.net/problem/3078
-  - [ ] 11577  소 https://www.acmicpc.net/problem/1941
+  - [ ] 11577  소문난칠공주 https://www.acmicpc.net/problem/1941
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
