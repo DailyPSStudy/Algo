@@ -51,6 +51,7 @@
   - [x] 17225  세훈이의 선물가게 https://www.acmicpc.net/problem/17225
   - [x] 3078   좋은 친구 https://www.acmicpc.net/problem/3078
   - [x] 1941   소문난 칠 공주 https://www.acmicpc.net/problem/1941
+  - [ ] 16197  두 동전 https://www.acmicpc.net/problem/16197
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
