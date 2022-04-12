@@ -51,7 +51,8 @@
   - [x] 17225  세훈이의 선물가게 https://www.acmicpc.net/problem/17225
   - [x] 3078   좋은 친구 https://www.acmicpc.net/problem/3078
   - [x] 1941   소문난 칠 공주 https://www.acmicpc.net/problem/1941
-  - [ ] 16197  두 동전 https://www.acmicpc.net/problem/16197
+  - [x] 16197  두 동전 https://www.acmicpc.net/problem/16197
+  - [ ] 4256   트리 https://www.acmicpc.net/problem/4256
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -97,7 +98,8 @@
   - [x] 49993  스킬트리 (https://programmers.co.kr/learn/courses/30/lessons/49993)
   - [x] 49994  방문 길이 (https://programmers.co.kr/learn/courses/30/lessons/49994)
   - [x] 17683  방금그곡 (https://programmers.co.kr/learn/courses/30/lessons/17683)
-  - [ ] 17684  압축 (https://programmers.co.kr/learn/courses/30/lessons/17684)
+  - [x] 17684  압축 (https://programmers.co.kr/learn/courses/30/lessons/17684)
+  - [ ] 12905  가장큰 정사각형찾기 (https://programmers.co.kr/learn/courses/30/lessons/12905)
 
 ### softeer 
 
