@@ -55,6 +55,8 @@
   - [x] 4256   트리 https://www.acmicpc.net/problem/4256
   - [x] 2571   색종이 https://www.acmicpc.net/problem/2571
   - [x] 2023   신기한 소수https://www.acmicpc.net/problem/2023
+  - [ ] 13460  구슬탈출https://www.acmicpc.net/problem/13460
+  - [ ] 13458  시험감독https://www.acmicpc.net/problem/13458
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -103,7 +105,8 @@
   - [x] 17684  압축 (https://programmers.co.kr/learn/courses/30/lessons/17684)
   - [x] 12905  가장 큰 정사각형찾기 (https://programmers.co.kr/learn/courses/30/lessons/12905)
   - [x] 92342  양궁 대회 (https://programmers.co.kr/learn/courses/30/lessons/92342)
-
+  - [ ] 12953  N개의 최소공배수 (https://programmers.co.kr/learn/courses/30/lessons/12953)
+  
 ### softeer 
 
 
