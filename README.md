@@ -53,8 +53,8 @@
   - [x] 1941   소문난 칠 공주 https://www.acmicpc.net/problem/1941
   - [x] 16197  두 동전 https://www.acmicpc.net/problem/16197
   - [x] 4256   트리 https://www.acmicpc.net/problem/4256
-  - [ ] 2571   색종이 https://www.acmicpc.net/problem/2571
-  - [ ] 2023   신기한 소수https://www.acmicpc.net/problem/2023
+  - [x] 2571   색종이 https://www.acmicpc.net/problem/2571
+  - [x] 2023   신기한 소수https://www.acmicpc.net/problem/2023
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -102,7 +102,7 @@
   - [x] 17683  방금그곡 (https://programmers.co.kr/learn/courses/30/lessons/17683)
   - [x] 17684  압축 (https://programmers.co.kr/learn/courses/30/lessons/17684)
   - [x] 12905  가장 큰 정사각형찾기 (https://programmers.co.kr/learn/courses/30/lessons/12905)
-  - [ ] 92342  양궁 대회 (https://programmers.co.kr/learn/courses/30/lessons/92342)
+  - [x] 92342  양궁 대회 (https://programmers.co.kr/learn/courses/30/lessons/92342)
 
 ### softeer 
 
