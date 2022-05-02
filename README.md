@@ -57,8 +57,8 @@
   - [x] 2023   신기한 소수https://www.acmicpc.net/problem/2023
   - [x] 13460  구슬탈출 https://www.acmicpc.net/problem/13460
   - [x] 13458  시험감독 https://www.acmicpc.net/problem/13458
-  - [ ] 14499  주사위굴리기 https://www.acmicpc.net/problem/14499
-  - [ ] 14500  테트로미노 https://www.acmicpc.net/problem/14500
+  - [x] 14499  주사위굴리기 https://www.acmicpc.net/problem/14499
+  - [x] 14500  테트로미노 https://www.acmicpc.net/problem/14500
   - [ ] 1106   호텔 https://www.acmicpc.net/problem/1106
   - [ ] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
  
