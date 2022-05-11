@@ -61,6 +61,8 @@
   - [x] 14500  테트로미노 https://www.acmicpc.net/problem/14500
   - [ ] 1106   호텔 https://www.acmicpc.net/problem/1106
   - [ ] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
+  - [ ] 2662   기업투자 https://www.acmicpc.net/problem/2662
+  - [ ] 11000  강의실 배정 https://www.acmicpc.net/problem/11000
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -111,7 +113,8 @@
   - [x] 92342  양궁 대회 (https://programmers.co.kr/learn/courses/30/lessons/92342)
   - [x] 12953  N개의 최소공배수 (https://programmers.co.kr/learn/courses/30/lessons/12953)
   - [x] 12951  JadenCase 문자열 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12951)
-  - [ ] 12941   최솟값 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12941)
+  - [x] 12941  최솟값 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12941)
+  - [ ] 12949  행렬의 곱셈 (https://programmers.co.kr/learn/courses/30/lessons/12949)
   
 ### softeer 
 
