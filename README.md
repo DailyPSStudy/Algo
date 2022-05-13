@@ -59,10 +59,12 @@
   - [x] 13458  시험감독 https://www.acmicpc.net/problem/13458
   - [x] 14499  주사위굴리기 https://www.acmicpc.net/problem/14499
   - [x] 14500  테트로미노 https://www.acmicpc.net/problem/14500
-  - [ ] 1106   호텔 https://www.acmicpc.net/problem/1106
-  - [ ] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
+  - [x] 1106   호텔 https://www.acmicpc.net/problem/1106
+  - [x] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
   - [ ] 2662   기업투자 https://www.acmicpc.net/problem/2662
-  - [ ] 11000  강의실 배정 https://www.acmicpc.net/problem/11000
+  - [x] 11000  강의실 배정 https://www.acmicpc.net/problem/11000
+  - [ ] 2212   센서 https://www.acmicpc.net/problem/2212
+  - [ ] 1744   수묶끼 https://www.acmicpc.net/problem/1744
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -114,7 +116,8 @@
   - [x] 12953  N개의 최소공배수 (https://programmers.co.kr/learn/courses/30/lessons/12953)
   - [x] 12951  JadenCase 문자열 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12951)
   - [x] 12941  최솟값 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12941)
-  - [ ] 12949  행렬의 곱셈 (https://programmers.co.kr/learn/courses/30/lessons/12949)
+  - [x] 12949  행렬의 곱셈 (https://programmers.co.kr/learn/courses/30/lessons/12949)
+  - [ ] 91341  주차 요금 계산 (https://programmers.co.kr/learn/courses/30/lessons/92341)
   
 ### softeer 
 
