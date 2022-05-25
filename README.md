@@ -63,8 +63,10 @@
   - [x] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
   - [ ] 2662   기업투자 https://www.acmicpc.net/problem/2662
   - [x] 11000  강의실 배정 https://www.acmicpc.net/problem/11000
-  - [ ] 2212   센서 https://www.acmicpc.net/problem/2212
-  - [ ] 1744   수묶끼 https://www.acmicpc.net/problem/1744
+  - [x] 2212   센서 https://www.acmicpc.net/problem/2212
+  - [x] 1744   수묶끼 https://www.acmicpc.net/problem/1744
+  - [ ] 2437   저울 (https://www.acmicpc.net/problem/2437)     
+  - [ ] 2467   용액(https://www.acmicpc.net/problem/2467)    
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -117,8 +119,9 @@
   - [x] 12951  JadenCase 문자열 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12951)
   - [x] 12941  최솟값 만들기 (https://programmers.co.kr/learn/courses/30/lessons/12941)
   - [x] 12949  행렬의 곱셈 (https://programmers.co.kr/learn/courses/30/lessons/12949)
-  - [ ] 91341  주차 요금 계산 (https://programmers.co.kr/learn/courses/30/lessons/92341)
-  
+  - [x] 91341  주차 요금 계산 (https://programmers.co.kr/learn/courses/30/lessons/92341)
+  - [ ] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
+
 ### softeer 
 
 
