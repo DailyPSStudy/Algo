@@ -131,7 +131,7 @@
   - [x] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
   - [x] 12939  최댓값과 최솟값 (https://programmers.co.kr/learn/courses/30/lessons/12939)
   - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
-  - [ ] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
+  - [x] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
   - [ ] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
 
 ### softeer 
