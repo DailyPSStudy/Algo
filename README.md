@@ -69,8 +69,10 @@
   - [x] 2467   용액(https://www.acmicpc.net/problem/2467)
   - [x] 8983   사냥꾼 (https://www.acmicpc.net/problem/8983)    
   - [x] 2143   두배열의합(https://www.acmicpc.net/problem/2143)
-  - [ ] 7453   합이 0인 네정수 https://www.acmicpc.net/problem/7453
-  - [ ] 16120  PPAP (https://www.acmicpc.net/problem/16120)
+  - [x] 7453   합이 0인 네정수 https://www.acmicpc.net/problem/7453
+  - [x] 16120  PPAP (https://www.acmicpc.net/problem/16120)
+  - [ ] 2212   센서 (https://www.acmicpc.net/problem/2212)
+  - [ ] 1744   수 묶기 (https://www.acmicpc.net/problem/1744)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -126,7 +128,8 @@
   - [x] 91341  주차 요금 계산 (https://programmers.co.kr/learn/courses/30/lessons/92341)
   - [x] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
   - [x] 12939  최댓값과 최솟값 (https://programmers.co.kr/learn/courses/30/lessons/12939)
-  - [ ] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
+  - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
+  - [ ] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
 
 ### softeer 
 
