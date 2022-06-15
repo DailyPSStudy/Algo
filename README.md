@@ -72,7 +72,8 @@
   - [x] 7453   합이 0인 네정수 https://www.acmicpc.net/problem/7453
   - [x] 16120  PPAP (https://www.acmicpc.net/problem/16120)
   - [ ] 3425   고스택 (https://www.acmicpc.net/problem/3425)
-  - [ ] 2374   같은수로 만들기 (https://www.acmicpc.net/problem/2374)
+  - [x] 2374   같은 수로 만들기 (https://www.acmicpc.net/problem/2374)
+  - [ ] 1937   욕쟁이 판다 (https://www.acmicpc.net/problem/1937)
  
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -129,7 +130,8 @@
   - [x] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
   - [x] 12939  최댓값과 최솟값 (https://programmers.co.kr/learn/courses/30/lessons/12939)
   - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
-  - [ ] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
+  - [x] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
+  - [ ] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
 
 ### softeer 
 
