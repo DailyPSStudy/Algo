@@ -45,7 +45,6 @@ public class 움직이는미로탈출 {
 		int[] dx = {0, -1, 0, 1, 0, 1, -1, -1, 1};
 		Queue<Node> q = new LinkedList<>();
 		q.add(new Node(7,0));
-		boolean flag= false;
 		boolean[][] visited = new boolean[8][8];
 		while(!q.isEmpty()) {
 			int size = q.size();
