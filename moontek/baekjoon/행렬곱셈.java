@@ -40,7 +40,8 @@ public class 행렬곱셈 {
 		그리고 인접으로만 묶을수있기때문에 j 스타트를찍어준다
 		*/
         StringTokenizer st;
-		for(int i=0;i<count;i++) {
+		for(int i=0;i<count;i++) 
+		{
 			st= new StringTokenizer(br.readLine());
 			int start = Integer.parseInt(st.nextToken());
 			int end = Integer.parseInt(st.nextToken());

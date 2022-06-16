@@ -21,7 +21,6 @@ public class 돌그룹 {
 			set.add(""+arr[0]+arr[1]+arr[2]);
 			q.offer(arr);
 			boolean flag = false;
-			int narr[];
 			while(!q.isEmpty()) {
 				
 				int[] cur = q.poll();
@@ -30,34 +29,34 @@ public class 돌그룹 {
 					break;
 				}
 				if(cur[0]!=cur[1]) {
-					narr = new int[3];
-					narr[0] = cur[0]+ cur[0];
-					narr[1] = cur[1] - cur[0];
-					narr[2] = cur[2];
+					arr = new int[3];
+					arr[0] = cur[0]+ cur[0];
+					arr[1] = cur[1] - cur[0];
+					arr[2] = cur[2];
 					
 					
-					if(narr[1]>0) {
-						Arrays.spliterator(narr);
-						String temp = ""+narr[0] + narr[1] + narr[2];
+					if(arr[1]>0) {
+						Arrays.sort(arr);
+						String temp = ""+arr[0] + arr[1] + arr[2];
 						if(!set.contains(temp)) {
 							set.add(temp);
-							q.offer(narr);
+							q.offer(arr);
 						}
 					}
 				}
 				if(cur[0]!=cur[2]) {
-					narr = new int[3];
-					narr[0] = cur[0]+ cur[0];
-					narr[2] = cur[2] - cur[0];
-					narr[1] = cur[1];
+					arr = new int[3];
+					arr[0] = cur[0]+ cur[0];
+					arr[2] = cur[2] - cur[0];
+					arr[1] = cur[1];
 					
 					
-					if(narr[2]>0) {
-						Arrays.spliterator(narr);
-						String temp = ""+narr[0] + narr[1] + narr[2];
+					if(arr[2]>0) {
+						Arrays.sort(arr);
+						String temp = ""+arr[0] + arr[1] + arr[2];
 						if(!set.contains(temp)) {
 							set.add(temp);
-							q.offer(narr);
+							q.offer(arr);
 						}
 					}
 				}
