@@ -71,10 +71,12 @@
   - [x] 2143   두배열의합(https://www.acmicpc.net/problem/2143)
   - [x] 7453   합이 0인 네정수 https://www.acmicpc.net/problem/7453
   - [x] 16120  PPAP (https://www.acmicpc.net/problem/16120)
-  - [ ] 3425   고스택 (https://www.acmicpc.net/problem/3425)
+  - [x] 3425   고스택 (https://www.acmicpc.net/problem/3425)
   - [x] 2374   같은 수로 만들기 (https://www.acmicpc.net/problem/2374)
-  - [ ] 1937   욕쟁이 판다 (https://www.acmicpc.net/problem/1937)
- 
+  - [x] 1937   욕쟁이 판다 (https://www.acmicpc.net/problem/1937)
+  - [ ] 2589   보물섬 (https://www.acmicpc.net/problem/2589)
+
+
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
   - [x] 17676  추석트래픽 (https://programmers.co.kr/learn/courses/30/lessons/17676)
@@ -131,7 +133,8 @@
   - [x] 12939  최댓값과 최솟값 (https://programmers.co.kr/learn/courses/30/lessons/12939)
   - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
   - [x] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
-  - [ ] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
+  - [] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
+  - [ ] 1830   브라이언의 고민(https://programmers.co.kr/learn/courses/30/lessons/1830)
 
 ### softeer 
 
