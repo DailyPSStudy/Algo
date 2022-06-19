@@ -133,7 +133,7 @@
   - [x] 12939  최댓값과 최솟값 (https://programmers.co.kr/learn/courses/30/lessons/12939)
   - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
   - [x] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
-  - [] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
+  - [x] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
   - [ ] 1830   브라이언의 고민(https://programmers.co.kr/learn/courses/30/lessons/1830)
 
 ### softeer 
