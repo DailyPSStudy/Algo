@@ -74,7 +74,9 @@
   - [x] 3425   고스택 (https://www.acmicpc.net/problem/3425)
   - [x] 2374   같은 수로 만들기 (https://www.acmicpc.net/problem/2374)
   - [x] 1937   욕쟁이 판다 (https://www.acmicpc.net/problem/1937)
-  - [ ] 2589   보물섬 (https://www.acmicpc.net/problem/2589)
+  - [x] 2589   보물섬 (https://www.acmicpc.net/problem/2589)
+  - [ ] 9019   DSLR (https://www.acmicpc.net/problem/9019)
+  - [ ] 19238  스타트택시 (https://www.acmicpc.net/problem/19238)
 
 
 ### Programmers
