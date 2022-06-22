@@ -75,8 +75,10 @@
   - [x] 2374   같은 수로 만들기 (https://www.acmicpc.net/problem/2374)
   - [x] 1937   욕쟁이 판다 (https://www.acmicpc.net/problem/1937)
   - [x] 2589   보물섬 (https://www.acmicpc.net/problem/2589)
-  - [ ] 9019   DSLR (https://www.acmicpc.net/problem/9019)
-  - [ ] 19238  스타트택시 (https://www.acmicpc.net/problem/19238)
+  - [x] 9019   DSLR https://www.acmicpc.net/problem/9019
+  - [x] 19238  스타트택시 https://www.acmicpc.net/problem/19238
+  - [ ] 5557   1학년 https://www.acmicpc.net/problem/5557
+  - [ ] 2281   데스노트 https://www.acmicpc.net/problem/2281
 
 
 ### Programmers
@@ -136,7 +138,10 @@
   - [x] 17679  프렌즈4블록 https://programmers.co.kr/learn/courses/30/lessons/17679
   - [x] 12946  하노이의탑 (https://programmers.co.kr/learn/courses/30/lessons/12946)
   - [x] 42895  N으로 표현(https://programmers.co.kr/learn/courses/30/lessons/42895)
-  - [ ] 1830   브라이언의 고민(https://programmers.co.kr/learn/courses/30/lessons/1830)
+
+
+### 복습
+  - [ ] 60057  문자열 압축하기(https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 ### softeer 
 
@@ -146,3 +151,4 @@
   - [ ] 635  거리 합 구하기 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
   - [ ] 630  코딩 테스트 세트 (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
   - [ ] 540  GarageGame (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=540)
+  - [ ] 1830   브라이언의 고민(https://programmers.co.kr/learn/courses/30/lessons/1830)
