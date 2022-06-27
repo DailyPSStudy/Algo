@@ -61,7 +61,7 @@
   - [x] 14500  테트로미노 https://www.acmicpc.net/problem/14500
   - [x] 1106   호텔 https://www.acmicpc.net/problem/1106
   - [x] 18427  함께 블록 쌓기 https://www.acmicpc.net/problem/18427
-  - [ ] 2662   기업투자 https://www.acmicpc.net/problem/2662
+  - [x] 2662   기업투자 https://www.acmicpc.net/problem/2662
   - [x] 11000  강의실 배정 https://www.acmicpc.net/problem/11000
   - [x] 2212   센서 https://www.acmicpc.net/problem/2212
   - [x] 1744   수묶끼 https://www.acmicpc.net/problem/1744
@@ -79,7 +79,7 @@
   - [x] 19238  스타트택시 https://www.acmicpc.net/problem/19238
   - [x] 5557   1학년 https://www.acmicpc.net/problem/5557
   - [x] 2281   데스노트 https://www.acmicpc.net/problem/2281
-  - [x] 10844  쉬운계단수 https://www.acmicpc.net/problem/10844
+  - [ ] 10844  쉬운계단수 https://www.acmicpc.net/problem/10844
 
 
 ### Programmers
