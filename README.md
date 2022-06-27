@@ -77,8 +77,9 @@
   - [x] 2589   보물섬 (https://www.acmicpc.net/problem/2589)
   - [x] 9019   DSLR https://www.acmicpc.net/problem/9019
   - [x] 19238  스타트택시 https://www.acmicpc.net/problem/19238
-  - [ ] 5557   1학년 https://www.acmicpc.net/problem/5557
-  - [ ] 2281   데스노트 https://www.acmicpc.net/problem/2281
+  - [x] 5557   1학년 https://www.acmicpc.net/problem/5557
+  - [x] 2281   데스노트 https://www.acmicpc.net/problem/2281
+  - [x] 10844  쉬운계단수 https://www.acmicpc.net/problem/10844
 
 
 ### Programmers
@@ -141,7 +142,7 @@
 
 
 ### 복습
-  - [ ] 60057  문자열 압축하기(https://programmers.co.kr/learn/courses/30/lessons/60057)
+  - [x] 60057  문자열 압축하기(https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 ### softeer 
 
