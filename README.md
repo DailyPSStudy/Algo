@@ -142,7 +142,8 @@
 
 
 ### 복습
-  - [x] 60057  문자열 압축하기(https://programmers.co.kr/learn/courses/30/lessons/60057)
+  - [x] 60057  문자열 압축하기 (https://programmers.co.kr/learn/courses/30/lessons/60057)
+  - [ ] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
 
 ### softeer 
 
