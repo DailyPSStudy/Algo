@@ -80,8 +80,9 @@
   - [x] 5557   1학년 https://www.acmicpc.net/problem/5557
   - [x] 2281   데스노트 https://www.acmicpc.net/problem/2281
   - [x] 10844  쉬운계단수 https://www.acmicpc.net/problem/10844
-  - [ ] 1013   Contact https://www.acmicpc.net/problem/1013
-  - [ ] 5052   전화번호목록 https://www.acmicpc.net/problem/5052
+  - [x] 1013   Contact https://www.acmicpc.net/problem/1013
+  - [x] 5052   전화번호목록 https://www.acmicpc.net/problem/5052
+  - [ ] 1068   트리 https://www.acmicpc.net/problem/1068
 
 
 ### Programmers
@@ -145,7 +146,8 @@
 
 ### 복습
   - [x] 60057  문자열 압축하기 (https://programmers.co.kr/learn/courses/30/lessons/60057)
-  - [ ] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
+  - [x] 12973  짝지어 제거하기 (https://programmers.co.kr/learn/courses/30/lessons/12973)
+  - [ ] 42888  오픈채팅방 (https://programmers.co.kr/learn/courses/30/lessons/42888)
 
 ### softeer 
 
