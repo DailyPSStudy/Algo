@@ -87,7 +87,8 @@
   - [x] 14938  서강그라운드 https://www.acmicpc.net/problem/14938
   - [ ] 2610   회의 준비 https://www.acmicpc.net/problem/2610
   - [ ] 2224   명제 증명 https://www.acmicpc.net/problem/2224
-  - [ ] 10282  해킹 https://www.acmicpc.net/problem/10282
+  - [x] 10282  해킹 https://www.acmicpc.net/problem/10282
+  - [ ] 1238   파티 https://www.acmicpc.net/problem/1238
  
 
 
@@ -158,7 +159,8 @@
   - [x] 67267  수식 최대화 (https://school.programmers.co.kr/learn/courses/30/lessons/67257)
   - [x] 77885  두 개 이하로 다른 비트 (https://school.programmers.co.kr/learn/courses/30/lessons/77885)
   - [x] 42626  더 맵게 (https://school.programmers.co.kr/learn/courses/30/lessons/42626)
-  - [ ] 42587  프린터 (https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+  - [x] 42587  프린터 (https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+  - [ ] 17687  n진수 게임 (https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 
 ### softeer 
 
