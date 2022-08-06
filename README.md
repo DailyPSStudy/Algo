@@ -88,7 +88,8 @@
   - [ ] 2610   회의 준비 https://www.acmicpc.net/problem/2610
   - [ ] 2224   명제 증명 https://www.acmicpc.net/problem/2224
   - [x] 10282  해킹 https://www.acmicpc.net/problem/10282
-  - [ ] 1238   파티 https://www.acmicpc.net/problem/1238
+  - [x] 1238   파티 https://www.acmicpc.net/problem/1238
+  - [ ] 14621  나만 안 되는 연애 https://www.acmicpc.net/problem/14621
  
 
 
@@ -160,7 +161,8 @@
   - [x] 77885  두 개 이하로 다른 비트 (https://school.programmers.co.kr/learn/courses/30/lessons/77885)
   - [x] 42626  더 맵게 (https://school.programmers.co.kr/learn/courses/30/lessons/42626)
   - [x] 42587  프린터 (https://school.programmers.co.kr/learn/courses/30/lessons/42587)
-  - [ ] 17687  n진수 게임 (https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+  - [x] 17687  n진수 게임 (https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+  - [ ] 12911  다음 큰 숫자 (https://school.programmers.co.kr/learn/courses/30/lessons/12911) 
 
 ### softeer 
 
