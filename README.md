@@ -89,8 +89,10 @@
   - [ ] 2224   명제 증명 https://www.acmicpc.net/problem/2224
   - [x] 10282  해킹 https://www.acmicpc.net/problem/10282
   - [x] 1238   파티 https://www.acmicpc.net/problem/1238
-  - [ ] 14621  나만 안 되는 연애 https://www.acmicpc.net/problem/14621
- 
+  - [x] 14621  나만 안 되는 연애 https://www.acmicpc.net/problem/14621
+  - [ ] 15686  치킨 배달 https://www.acmicpc.net/problem/2638
+  - [x] 2638   치~즈     https://www.acmicpc.net/problem/2638
+  - [ ] 2573   빙산      https://www.acmicpc.net/problem/2573
 
 
 ### Programmers
