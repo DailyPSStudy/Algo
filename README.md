@@ -93,8 +93,10 @@
   - [ ] 15686  치킨 배달 https://www.acmicpc.net/problem/2638
   - [x] 2638   치~즈     https://www.acmicpc.net/problem/2638
   - [x] 2573   빙산      https://www.acmicpc.net/problem/2573
-  - [ ] 11559  Puyo Puyo https://www.acmicpc.net/problem/11559
-  - [ ] 16235  나무 재테크 https://www.acmicpc.net/problem/16235
+  - [x] 11559  Puyo Puyo https://www.acmicpc.net/problem/11559
+  - [x] 16235  나무 재테크 https://www.acmicpc.net/problem/16235
+  - [ ] 17143  낚시왕 https://www.acmicpc.net/problem/17143
+  - [ ] 16234  인구 이동 https://www.acmicpc.net/problem/16234
 
 
 ### Programmers
