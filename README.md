@@ -95,8 +95,10 @@
   - [x] 2573   빙산      https://www.acmicpc.net/problem/2573
   - [x] 11559  Puyo Puyo https://www.acmicpc.net/problem/11559
   - [x] 16235  나무 재테크 https://www.acmicpc.net/problem/16235
-  - [ ] 17143  낚시왕 https://www.acmicpc.net/problem/17143
-  - [ ] 16234  인구 이동 https://www.acmicpc.net/problem/16234
+  - [x] 17143  낚시왕 https://www.acmicpc.net/problem/17143
+  - [x] 16234  인구 이동 https://www.acmicpc.net/problem/16234
+  - [ ] 17822  원판 돌리기 https://www.acmicpc.net/problem/17822
+  - [ ] 14891  톱니바퀴 https://www.acmicpc.net/problem/14891
 
 
 ### Programmers
