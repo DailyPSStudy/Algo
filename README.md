@@ -97,9 +97,10 @@
   - [x] 16235  나무 재테크 https://www.acmicpc.net/problem/16235
   - [x] 17143  낚시왕 https://www.acmicpc.net/problem/17143
   - [x] 16234  인구 이동 https://www.acmicpc.net/problem/16234
-  - [ ] 17822  원판 돌리기 https://www.acmicpc.net/problem/17822
-  - [ ] 14891  톱니바퀴 https://www.acmicpc.net/problem/14891
-
+  - [x] 17822  원판 돌리기 https://www.acmicpc.net/problem/17822
+  - [x] 14891  톱니바퀴 https://www.acmicpc.net/problem/14891
+  - [x] 17837  새로운 게임 2 https://www.acmicpc.net/problem/17837
+  
 
 ### Programmers
   - [x] 60057  문자열압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
